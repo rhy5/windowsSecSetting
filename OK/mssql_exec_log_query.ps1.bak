@@ -1,0 +1,100 @@
+﻿#配置信息  
+$Database   = 'master'  
+$Server     = '.'  
+$UserName   = 'SA'  
+$Password   = 'sa123!@#'  
+$beginTime=(Get-Date).AddDays(-1).ToString('yyyy-MM-dd HH:mm') # 配置时间1天前
+$endTime=(Get-Date).ToString('yyyy-MM-dd HH:mm')
+$monitingWord = "aa" #配置监控字符串 
+$filename = (get-date).Year.ToString()+(get-date).Month.ToString()+(get-date).Day.ToString() +"_mssql_query_log.txt" #文件命名
+
+
+
+#创建连接对象  
+$SqlConn = New-Object System.Data.SqlClient.SqlConnection  
+  
+#使用账号连接MSSQL  
+$SqlConn.ConnectionString = "Data Source=$Server;Initial Catalog=$Database;user id=$UserName;pwd=$Password"  
+  
+#或者以 windows 认证连接 MSSQL  
+#$SqlConn.ConnectionString = "Data Source=$Server;Initial Catalog=$Database;Integrated Security=SSPI;"  
+  
+#打开数据库连接  
+$SqlConn.open()  
+  
+#执行语句方法一  
+$SqlCmd = New-Object System.Data.SqlClient.SqlCommand  
+$SqlCmd.connection = $SqlConn  
+<#$SqlCmd.commandtext = "SELECT 
+--创建时间 
+QS.creation_time, 
+--查询语句 
+SUBSTRING(ST.text,(QS.statement_start_offset/2)+1, 
+((CASE QS.statement_end_offset WHEN -1 THEN DATALENGTH(st.text) 
+ELSE QS.statement_end_offset END - QS.statement_start_offset)/2) + 1 
+) AS statement_text, 
+--执行文本 
+ST.text, 
+--执行计划 
+QS.total_worker_time, 
+QS.last_worker_time, 
+QS.max_worker_time, 
+QS.min_worker_time 
+FROM 
+sys.dm_exec_query_stats QS 
+--关键字 
+CROSS APPLY 
+sys.dm_exec_sql_text(QS.sql_handle) ST 
+WHERE 
+QS.creation_time BETWEEN '$beginTime' AND '$endTime' 
+--AND ST.text LIKE '%%' 
+ORDER BY 
+QS.creation_time DESC"
+$SqlCmd.executenonquery() 
+$SqlCmd.commandtext ="SELECT TOP 1000 
+--创建时间 
+QS.creation_time, 
+--执行文本 
+ST.text
+FROM 
+sys.dm_exec_query_stats QS 
+--关键字 
+CROSS APPLY 
+sys.dm_exec_sql_text(QS.sql_handle) ST 
+WHERE 
+QS.creation_time BETWEEN '$beginTime' AND '$endTime'  
+AND ST.text NOT LIKE '%SELECT * FROM T_LOCATIONINFO WHERE STRCLIPLOGICID in(%' 
+ORDER BY 
+QS.creation_time DESC"  
+$SqlCmd.executenonquery()  
+#>
+
+
+
+$SqlQuery                       = "SELECT  
+                                    --创建时间 
+                                    QS.creation_time, 
+                                    --执行文本 
+                                    ST.text
+                                    FROM 
+                                    sys.dm_exec_query_stats QS 
+                                    --关键字 
+                                    CROSS APPLY 
+                                    sys.dm_exec_sql_text(QS.sql_handle) ST 
+                                    WHERE 
+                                    QS.creation_time BETWEEN '"+$beginTime+"' AND '"+$endTime+"' 
+                                    AND ST.text  LIKE '%$monitingWord%' 
+                                    ORDER BY 
+                                    QS.creation_time DESC"  
+
+$SqlCmd.CommandText             = $SqlQuery
+ Write-Host $SqlQuery
+# Accessing Data Base
+$SqlCmd.CommandText             = $SqlQuery
+$SqlAdapter                     = New-Object System.Data.SqlClient.SqlDataAdapter
+$SqlAdapter.SelectCommand       = $SqlCmd
+$set                            = New-Object data.dataset
+ 
+# Filling Dataset
+$SqlAdapter.Fill($set)
+$set.Tables |Format-list |Out-File -FilePath "$filename" -Encoding utf8

@@ -1,0 +1,1346 @@
+﻿
+
+EventLog      : System
+TimeGenerated : 2017/3/31 14:59:27
+EntryType     : Warning
+Source        : Microsoft-Windows-DNS-Client
+Message       : 无法找到源“Microsoft-Windows-DNS-Client”中事件 ID“1014”的说明。本地计算机可能没有显示该
+                消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'smtp.163.com', '
+                16', '02000035C0A85C020000000000000000'
+
+EventLog      : System
+TimeGenerated : 2017/3/31 14:54:27
+EntryType     : Warning
+Source        : Microsoft-Windows-DNS-Client
+Message       : 无法找到源“Microsoft-Windows-DNS-Client”中事件 ID“1014”的说明。本地计算机可能没有显示该
+                消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'smtp.163.com', '
+                16', '02000035C0A85C020000000000000000'
+
+EventLog      : System
+TimeGenerated : 2017/3/31 14:49:47
+EntryType     : Warning
+Source        : Microsoft-Windows-DNS-Client
+Message       : 无法找到源“Microsoft-Windows-DNS-Client”中事件 ID“1014”的说明。本地计算机可能没有显示该
+                消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'dns.msftncsi.com
+                ', '16', '02000035C0A85C020000000000000000'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 11:56:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4634”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0xb4c549', '4'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 11:23:33
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4776”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'MICROSOFT
+                _AUTHENTICATION_PACKAGE_V1_0', 'lgadmin', 'WIN-NSMV1KPL8S7', '0
+                x0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 11:23:33
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4648”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '{00000000-0000-000
+                0-0000-000000000000}', 'lgadmin', 'WIN-NSMV1KPL8S7', '{00000000
+                -0000-0000-0000-000000000000}', 'localhost', 'localhost', '0x33
+                4', 'C:\Windows\System32\svchost.exe', '-', '-'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 11:23:33
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-21-188170886
+                7-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8S7', '0xb
+                4c549', '4', '.Jobs   ', 'Negotiate', '-', '{00000000-0000-0000
+                -0000-000000000000}', '-', '-', '0', '0x334', 'C:\Windows\Syste
+                m32\svchost.exe', '-', '-'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 11:23:33
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0xb4c549', 'SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4776”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'MICROSOFT
+                _AUTHENTICATION_PACKAGE_V1_0', 'lgadmin', 'WIN-NSMV1KPL8S7', '0
+                x0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4648”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '{00000000-0000-000
+                0-0000-000000000000}', 'lgadmin', 'WIN-NSMV1KPL8S7', '{00000000
+                -0000-0000-0000-000000000000}', 'localhost', 'localhost', '0x19
+                4', 'C:\Windows\System32\winlogon.exe', '127.0.0.1', '0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-21-188170886
+                7-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8S7', '0x9
+                71fd7', '7', 'User32 ', 'Negotiate', 'WIN-NSMV1KPL8S7', '{00000
+                000-0000-0000-0000-000000000000}', '-', '-', '0', '0x194', 'C:\
+                Windows\System32\winlogon.exe', '127.0.0.1', '0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x971fd7', 'SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:26
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4634”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x971fd7', '7'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:24:22
+EntryType     : FailureAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4625”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-0-0', 'lgadmin
+                ', 'WIN-NSMV1KPL8S7', '0xc000006d', '%%2313', '0xc000006a', '7'
+                , 'User32 ', 'Negotiate', 'WIN-NSMV1KPL8S7', '-', '-', '0', '0x
+                194', 'C:\Windows\System32\winlogon.exe', '127.0.0.1', '0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:16:46
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-18', 'SYSTEM
+                ', 'NT AUTHORITY', '0x3e7', '5', 'Advapi  ', 'Negotiate', '', '
+                {00000000-0000-0000-0000-000000000000}', '-', '-', '0', '0x1cc'
+                , 'C:\Windows\System32\services.exe', '-', '-'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 9:16:46
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'SYSTEM', 'NT AUTHORITY', '0x3e7', 'SeAssignPrimaryTokenPrivi
+                lege
+                			SeTcbPrivilege
+                			SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeAuditPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Application
+TimeGenerated : 2017/3/31 9:01:08
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'Syntax error in config file C:\/Prog
+                ram Files/ModSecurity IIS/owasp_crs/experimental_rules/modsecur
+                ity_crs_61_ip_forensics.conf, line 22: Error parsing actions: M
+                odSecurity: Failed to compile script /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: cannot open /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: No such file or directory'
+
+EventLog      : Security
+TimeGenerated : 2017/3/31 8:51:10
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4616”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '2017-03-30T13:35:0
+                3.799482300Z', '2017-03-31T00:51:10.269000000Z', '0x4ac', 'C:\P
+                rogram Files\VMware\VMware Tools\vmtoolsd.exe'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 20:12:39
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4634”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x557cff', '4'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 20:03:00
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4776”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'MICROSOFT
+                _AUTHENTICATION_PACKAGE_V1_0', 'lgadmin', 'WIN-NSMV1KPL8S7', '0
+                x0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 20:03:00
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-21-188170886
+                7-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8S7', '0x5
+                57cff', '4', '.Jobs   ', 'Negotiate', '-', '{00000000-0000-0000
+                -0000-000000000000}', '-', '-', '0', '0x334', 'C:\Windows\Syste
+                m32\svchost.exe', '-', '-'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 20:03:00
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x557cff', 'SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 20:03:00
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4648”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '{00000000-0000-000
+                0-0000-000000000000}', 'lgadmin', 'WIN-NSMV1KPL8S7', '{00000000
+                -0000-0000-0000-000000000000}', 'localhost', 'localhost', '0x33
+                4', 'C:\Windows\System32\svchost.exe', '-', '-'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179436"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179436"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=ping%20bai
+                du.com%20-c%201"] [unique_id "18302628887781179435"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=pin
+                g%20baidu.com%20-c%201"] [unique_id "18302628887781179435"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=ping%20baidu.com%
+                20-c%201"] [unique_id "18302628887781179435"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:47:32
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179436"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179434"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179434"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179434"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=netstat%20
+                -an"] [unique_id "18302628887781179433"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=netstat%20-an"] [
+                unique_id "18302628887781179433"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:19
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=net
+                stat%20-an"] [unique_id "18302628887781179433"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:11
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179432"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:11
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179432"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:11
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'Syntax error in config file C:\/Prog
+                ram Files/ModSecurity IIS/owasp_crs/experimental_rules/modsecur
+                ity_crs_61_ip_forensics.conf, line 22: Error parsing actions: M
+                odSecurity: Failed to compile script /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: cannot open /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: No such file or directory'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:46:11
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179432"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179430"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179430"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179430"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [uni
+                que_id "18302628887781179429"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [unique_id 
+                "18302628887781179429"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:31
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111
+                "] [unique_id "18302628887781179429"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179428"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179428"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179428"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [uni
+                que_id "18302628887781179427"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [unique_id 
+                "18302628887781179427"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:29
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111
+                "] [unique_id "18302628887781179427"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [unique_id 
+                "18302628887781179425"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111
+                "] [unique_id "18302628887781179425"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [uni
+                que_id "18302628887781179425"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179426"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179426"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:27
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179426"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111
+                "] [unique_id "18302628887781179423"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179424"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179424"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179424"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [uni
+                que_id "18302628887781179423"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:25
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111"] [unique_id 
+                "18302628887781179423"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:15
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [u
+                nique_id "18302628887781179422"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:15
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_id "1830
+                2628887781179422"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:15
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/favicon.ico"] [unique_i
+                d "18302628887781179422"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "global", key "global"). Use SecDataDir to define data direct
+                ory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/"] [unique_id "1
+                8302628887781179421"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: collection_retrieve_ex: Unable to retrieve collection (nam
+                e "ip", key "192.168.92.1:59999_a2c9e0b9b275f51be8c4f2b665aaaf1
+                e51281ff9"). Use SecDataDir to define data directory first. [ho
+                stname "WIN-NSMV1KPL8S7"] [uri "/"] [unique_id "183026288877811
+                79421"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:45:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client 192.168.92.1:59999] ModSecur
+                ity: Access denied with code 403 (phase 2). Pattern match "^[\\
+                d.:]+$" at REQUEST_HEADERS:Host. [file "C:\/Program Files/ModSe
+                curity IIS/owasp_crs/base_rules/modsecurity_crs_21_protocol_ano
+                malies.conf"] [line "98"] [id "960017"] [rev "2"] [msg "Host he
+                ader is a numeric IP address"] [data "192.168.92.129"] [severit
+                y "WARNING"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accuracy "
+                9"] [tag "OWASP_CRS/PROTOCOL_VIOLATION/IP_HOST"] [tag "WASCTC/W
+                ASC-21"] [tag "OWASP_TOP_10/A7"] [tag "PCI/6.5.10"] [tag "http:
+                //technet.microsoft.com/en-us/magazine/2005.01.hackerbasher.asp
+                x"] [hostname "WIN-NSMV1KPL8S7"] [uri "/"] [unique_id "18302628
+                887781179421"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:39:07
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/caidao.php"] [unique_id "183026288
+                87781179419"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:39:07
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "216.2
+                00.152.189_4a87e8a78b7d8abf25f9ff352212d075aa33f5ac"). Use SecD
+                ataDir to define data directory first. [hostname "WIN-NSMV1KPL8
+                S7"] [uri "/caidao.php"] [unique_id "18302628887781179419"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:39:07
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(/\\*!?|\\*/|[';]--|--
+                [\\s\\r\\n\\v\\f]|(?:--[^-]*?-)|([^\\-&])#.*?[\\s\\r\\n\\v\\f]|
+                ;?\\x00)" at ARGS:pass. [file "C:\/Program Files/ModSecurity II
+                S/owasp_crs/base_rules/modsecurity_crs_41_sql_injection_attacks
+                .conf"] [line "49"] [id "981231"] [rev "2"] [msg "SQL Comment S
+                equence Detected."] [data "Matched Data: /* found within ARGS:p
+                ass: $xx=chr(98).chr(97).chr(115).chr(101).chr(54).chr(52).chr(
+                95).chr(100).chr(101).chr(99).chr(111).chr(100).chr(101);$yy=$_
+                POST;@eval/**/\x01($xx/**/\x01($yy[z0]));"] [severity "CRITICAL
+                "] [ver "OWASP_CRS/2.2.9"] [maturity "8"] [accuracy "8"] [tag "
+                OWASP_CRS/WEB_ATTACK/SQL_INJECTION"] [tag "WASCTC/WASC-19"] [ta
+                g "OWASP_TOP_10/A1"] [tag "OWASP_AppSensor/CIE1"] [tag "PCI/6.5
+                .2"] [hostname "WIN-NSMV1KPL8S7"] [uri "/caidao.php"] [unique_i
+                d "18302628887781179419"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:32:21
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "216.2
+                00.152.189_4a87e8a78b7d8abf25f9ff352212d075aa33f5ac"). Use SecD
+                ataDir to define data directory first. [hostname "WIN-NSMV1KPL8
+                S7"] [uri "/caidao.php"] [unique_id "18302628887781179417"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:32:21
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(/\\*!?|\\*/|[';]--|--
+                [\\s\\r\\n\\v\\f]|(?:--[^-]*?-)|([^\\-&])#.*?[\\s\\r\\n\\v\\f]|
+                ;?\\x00)" at ARGS:pass. [file "C:\/Program Files/ModSecurity II
+                S/owasp_crs/base_rules/modsecurity_crs_41_sql_injection_attacks
+                .conf"] [line "49"] [id "981231"] [rev "2"] [msg "SQL Comment S
+                equence Detected."] [data "Matched Data: /* found within ARGS:p
+                ass: $xx=chr(98).chr(97).chr(115).chr(101).chr(54).chr(52).chr(
+                95).chr(100).chr(101).chr(99).chr(111).chr(100).chr(101);$yy=$_
+                POST;@eval/**/\x01($xx/**/\x01($yy[z0]));"] [severity "CRITICAL
+                "] [ver "OWASP_CRS/2.2.9"] [maturity "8"] [accuracy "8"] [tag "
+                OWASP_CRS/WEB_ATTACK/SQL_INJECTION"] [tag "WASCTC/WASC-19"] [ta
+                g "OWASP_TOP_10/A1"] [tag "OWASP_AppSensor/CIE1"] [tag "PCI/6.5
+                .2"] [hostname "WIN-NSMV1KPL8S7"] [uri "/caidao.php"] [unique_i
+                d "18302628887781179417"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:32:21
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/caidao.php"] [unique_id "183026288
+                87781179417"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 17:28:54
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'Syntax error in config file C:\/Prog
+                ram Files/ModSecurity IIS/owasp_crs/experimental_rules/modsecur
+                ity_crs_61_ip_forensics.conf, line 22: Error parsing actions: M
+                odSecurity: Failed to compile script /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: cannot open /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: No such file or directory'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 17:25:40
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4616”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '2017-03-30T09:17:2
+                1.412880600Z', '2017-03-30T09:25:40.144000000Z', '0x4ac', 'C:\P
+                rogram Files\VMware\VMware Tools\vmtoolsd.exe'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:24
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=11/**/and/**/1"] [uni
+                que_id "18302628887781179413"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:24
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(/\\*!?|\\*/|[';]--|--
+                [\\s\\r\\n\\v\\f]|(?:--[^-]*?-)|([^\\-&])#.*?[\\s\\r\\n\\v\\f]|
+                ;?\\x00)" at ARGS:sb. [file "C:\/Program Files/ModSecurity IIS/
+                owasp_crs/base_rules/modsecurity_crs_41_sql_injection_attacks.c
+                onf"] [line "49"] [id "981231"] [rev "2"] [msg "SQL Comment Seq
+                uence Detected."] [data "Matched Data: /* found within ARGS:sb:
+                 11/**/and/**/1"] [severity "CRITICAL"] [ver "OWASP_CRS/2.2.9"]
+                 [maturity "8"] [accuracy "8"] [tag "OWASP_CRS/WEB_ATTACK/SQL_I
+                NJECTION"] [tag "WASCTC/WASC-19"] [tag "OWASP_TOP_10/A1"] [tag 
+                "OWASP_AppSensor/CIE1"] [tag "PCI/6.5.2"] [hostname "WIN-NSMV1K
+                PL8S7"] [uri "/shell.php?sb=11/**/and/**/1"] [unique_id "183026
+                28887781179413"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:24
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=11/**/and/**/1"] [unique_id "18302628887781179413"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(?i)\\b(?i:and)\\b\\s+
+                (\\d{1,10}|'[^=]{1,10}')\\s*?[=]|\\b(?i:and)\\b\\s+(\\d{1,10}|'
+                [^=]{1,10}')\\s*?[<>]|\\band\\b ?(?:\\d{1,10}|[\\'\"][^=]{1,10}
+                [\\'\"]) ?[=<>]+|\\b(?i:and)\\b\\s+(\\d{1,10}|'[^=]{1,10}')" at
+                 ARGS:sb. [file "C:\/Program Files/ModSecurity IIS/owasp_crs/ba
+                se_rules/modsecurity_crs_41_sql_injection_attacks.conf"] [line 
+                "136"] [id "959072"] [rev "2"] [msg "SQL Injection Attack"] [da
+                ta "Matched Data: and 1 found within ARGS:sb: 11 and 1"] [sever
+                ity "CRITICAL"] [ver "OWASP_CRS/2.2.9"] [maturity "9"] [accurac
+                y "8"] [tag "OWASP_CRS/WEB_ATTACK/SQL_INJECTION"] [tag "WASCTC/
+                WASC-19"] [tag "OWASP_TOP_10/A1"] [tag "OWASP_AppSensor/CIE1"] 
+                [tag "PCI/6.5.2"] [hostname "WIN-NSMV1KPL8S7"] [uri "/shell.php
+                ?sb=11+and+1"] [unique_id "18302628887781179412"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=11+and+1"] [unique_id "18302628887781179412"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:14
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=11+and+1"] [unique_id
+                 "18302628887781179412"]'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:28:08
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'SYSTEM', 'NT AUTHORITY', '0x3e7', 'SeAssignPrimaryTokenPrivi
+                lege
+                			SeTcbPrivilege
+                			SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeAuditPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:28:08
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-18', 'SYSTEM
+                ', 'NT AUTHORITY', '0x3e7', '5', 'Advapi  ', 'Negotiate', '', '
+                {00000000-0000-0000-0000-000000000000}', '-', '-', '0', '0x1cc'
+                , 'C:\Windows\System32\services.exe', '-', '-'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:04
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=11%20and%201=1"] [unique_id "18302628887781179411"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:04
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(?i:([\\s'\"`\xc2\xb4\
+                xe2\x80\x99\xe2\x80\x98\\(\\)]*?)\\b([\\d\\w]++)([\\s'\"`\xc2\x
+                b4\xe2\x80\x99\xe2\x80\x98\\(\\)]*?)(?:(?:=|<=>|r?like|sounds\\
+                s+like|regexp)([\\s'\"`\xc2\xb4\xe2\x80\x99\xe2\x80\x98\\(\\)]*
+                ?)\\2\\b|(?:!=|<=|>=|<>|<|>|\\^|is\\s+not ..." at ARGS:sb. [fil
+                e "C:\/Program Files/ModSecurity IIS/owasp_crs/base_rules/modse
+                curity_crs_41_sql_injection_attacks.conf"] [line "77"] [id "950
+                901"] [rev "2"] [msg "SQL Injection Attack: SQL Tautology Detec
+                ted."] [data "Matched Data:  1=1 found within ARGS:sb: 11 and 1
+                =1"] [severity "CRITICAL"] [ver "OWASP_CRS/2.2.9"] [maturity "9
+                "] [accuracy "8"] [tag "OWASP_CRS/WEB_ATTACK/SQL_INJECTION"] [t
+                ag "WASCTC/WASC-19"] [tag "OWASP_TOP_10/A1"] [tag "OWASP_AppSen
+                sor/CIE1"] [tag "PCI/6.5.2"] [hostname "WIN-NSMV1KPL8S7"] [uri 
+                "/shell.php?sb=11%20and%201=1"] [unique_id "1830262888778117941
+                1"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:28:04
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=11%20and%201=1"] [uni
+                que_id "18302628887781179411"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:55
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(^[\"'`\xc2\xb4\xe2\x8
+                0\x99\xe2\x80\x98;]+|[\"'`\xc2\xb4\xe2\x80\x99\xe2\x80\x98;]+$)
+                " at ARGS:sb. [file "C:\/Program Files/ModSecurity IIS/owasp_cr
+                s/base_rules/modsecurity_crs_41_sql_injection_attacks.conf"] [l
+                ine "64"] [id "981318"] [rev "2"] [msg "SQL Injection Attack: C
+                ommon Injection Testing Detected"] [data "Matched Data: ' found
+                 within ARGS:sb: 111'"] [severity "CRITICAL"] [ver "OWASP_CRS/2
+                .2.9"] [maturity "9"] [accuracy "8"] [tag "OWASP_CRS/WEB_ATTACK
+                /SQL_INJECTION"] [tag "WASCTC/WASC-19"] [tag "OWASP_TOP_10/A1"]
+                 [tag "OWASP_AppSensor/CIE1"] [tag "PCI/6.5.2"] [hostname "WIN-
+                NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "1830262888
+                7781179410"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:55
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=111'"] [unique_id "18302628887781179410"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:55
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "18
+                302628887781179410"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:52
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(^[\"'`\xc2\xb4\xe2\x8
+                0\x99\xe2\x80\x98;]+|[\"'`\xc2\xb4\xe2\x80\x99\xe2\x80\x98;]+$)
+                " at ARGS:sb. [file "C:\/Program Files/ModSecurity IIS/owasp_cr
+                s/base_rules/modsecurity_crs_41_sql_injection_attacks.conf"] [l
+                ine "64"] [id "981318"] [rev "2"] [msg "SQL Injection Attack: C
+                ommon Injection Testing Detected"] [data "Matched Data: ' found
+                 within ARGS:sb: 111'"] [severity "CRITICAL"] [ver "OWASP_CRS/2
+                .2.9"] [maturity "9"] [accuracy "8"] [tag "OWASP_CRS/WEB_ATTACK
+                /SQL_INJECTION"] [tag "WASCTC/WASC-19"] [tag "OWASP_TOP_10/A1"]
+                 [tag "OWASP_AppSensor/CIE1"] [tag "PCI/6.5.2"] [hostname "WIN-
+                NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "1830262888
+                7781179409"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:52
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=111'"] [unique_id "18302628887781179409"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:52
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "18
+                302628887781179409"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:48
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "ip", key "_0276
+                cc7cb434549d8a05d06d91af788a62b30e98"). Use SecDataDir to defin
+                e data directory first. [hostname "WIN-NSMV1KPL8S7"] [uri "/she
+                ll.php?sb=111'"] [unique_id "18302628887781179408"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:48
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: Access denied
+                 with code 403 (phase 2). Pattern match "(^[\"'`\xc2\xb4\xe2\x8
+                0\x99\xe2\x80\x98;]+|[\"'`\xc2\xb4\xe2\x80\x99\xe2\x80\x98;]+$)
+                " at ARGS:sb. [file "C:\/Program Files/ModSecurity IIS/owasp_cr
+                s/base_rules/modsecurity_crs_41_sql_injection_attacks.conf"] [l
+                ine "64"] [id "981318"] [rev "2"] [msg "SQL Injection Attack: C
+                ommon Injection Testing Detected"] [data "Matched Data: ' found
+                 within ARGS:sb: 111'"] [severity "CRITICAL"] [ver "OWASP_CRS/2
+                .2.9"] [maturity "9"] [accuracy "8"] [tag "OWASP_CRS/WEB_ATTACK
+                /SQL_INJECTION"] [tag "WASCTC/WASC-19"] [tag "OWASP_TOP_10/A1"]
+                 [tag "OWASP_AppSensor/CIE1"] [tag "PCI/6.5.2"] [hostname "WIN-
+                NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "1830262888
+                7781179408"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:48
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'[client ] ModSecurity: collection_re
+                trieve_ex: Unable to retrieve collection (name "global", key "g
+                lobal"). Use SecDataDir to define data directory first. [hostna
+                me "WIN-NSMV1KPL8S7"] [uri "/shell.php?sb=111'"] [unique_id "18
+                302628887781179408"]'
+
+EventLog      : Application
+TimeGenerated : 2017/3/30 16:27:46
+EntryType     : Error
+Source        : ModSecurity
+Message       : 无法找到源“ModSecurity”中事件 ID“1”的说明。本地计算机可能没有显示该消息所需的注册表信息或消息 DLL 文件
+                ，或者您可能无权访问它们。下列信息是该事件的一部分:'Syntax error in config file C:\/Prog
+                ram Files/ModSecurity IIS/owasp_crs/experimental_rules/modsecur
+                ity_crs_61_ip_forensics.conf, line 22: Error parsing actions: M
+                odSecurity: Failed to compile script /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: cannot open /usr/local/apache/conf/crs
+                /lua/gather_ip_data.lua: No such file or directory'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:27:37
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4672”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x3cfae1', 'SeSecurityPrivilege
+                			SeTakeOwnershipPrivilege
+                			SeLoadDriverPrivilege
+                			SeBackupPrivilege
+                			SeRestorePrivilege
+                			SeDebugPrivilege
+                			SeSystemEnvironmentPrivilege
+                			SeImpersonatePrivilege'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:27:37
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4624”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', 'S-1-5-21-188170886
+                7-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8S7', '0x3
+                cfae1', '7', 'User32 ', 'Negotiate', 'WIN-NSMV1KPL8S7', '{00000
+                000-0000-0000-0000-000000000000}', '-', '-', '0', '0x194', 'C:\
+                Windows\System32\winlogon.exe', '127.0.0.1', '0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:27:37
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4648”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-18'
+                , 'WIN-NSMV1KPL8S7$', 'WORKGROUP', '0x3e7', '{00000000-0000-000
+                0-0000-000000000000}', 'lgadmin', 'WIN-NSMV1KPL8S7', '{00000000
+                -0000-0000-0000-000000000000}', 'localhost', 'localhost', '0x19
+                4', 'C:\Windows\System32\winlogon.exe', '127.0.0.1', '0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:27:37
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4776”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'MICROSOFT
+                _AUTHENTICATION_PACKAGE_V1_0', 'lgadmin', 'WIN-NSMV1KPL8S7', '0
+                x0'
+
+EventLog      : Security
+TimeGenerated : 2017/3/30 16:27:37
+EntryType     : SuccessAudit
+Source        : Microsoft-Windows-Security-Auditing
+Message       : 无法找到源“Microsoft-Windows-Security-Auditing”中事件 ID“4634”的说明。本地计算机
+                可能没有显示该消息所需的注册表信息或消息 DLL 文件，或者您可能无权访问它们。下列信息是该事件的一部分:'S-1-5-21-
+                1881708867-1924611253-215782364-500', 'lgadmin', 'WIN-NSMV1KPL8
+                S7', '0x3cfae1', '7'
+
+
+
